@@ -2,4 +2,4 @@
 - 👀 I’m interested in web development. 
 - 🌱 I’m currently learning javascript. 
 - ⚡ Fun fact: My Age is ........
-- ;) I Dream Bug and Live Big🔥
+- :-) I Dream Bug and Live Big🔥
